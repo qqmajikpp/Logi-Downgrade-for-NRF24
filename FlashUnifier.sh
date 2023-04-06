@@ -11,4 +11,4 @@ git clone https://github.com/BastilleResearch/nrf-research-firmware.git
 cd nrf-research-firmware
 git clone https://github.com/Logitech/fw_updates.git 
 make
-sudo ./prog/usb-flasher/logitech-usb-restore.py fw_updates/ROR12/ROR 12.05/RQR12.05_80028.hex (edited)
+sudo ./prog/usb-flasher/logitech-usb-restore.py fw_updates/RQR12/RQR12.05/RQR12.05_80028.hex
