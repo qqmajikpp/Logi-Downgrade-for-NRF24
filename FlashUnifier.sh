@@ -2,7 +2,7 @@
 echo "deb http://archive.ubuntu.com/ubuntu/ bionic main universe multiverse" | sudo tee -a /etc/apt/sources.list
 echo "deb http://security.ubuntu.com/ubuntu/ bionic-security main universe multiverse" | sudo tee -a /etc/apt/sources.list
 echo "deb http://archive.ubuntu.com/ubuntu/ bionic-updates main universe multiverse" | sudo tee -a /etc/apt/sources.list
-sudo apt update
+sudo apt-get update
 sudo apt-get install git sdcc binutils python python-pip python3-pip
 sudo pip install -U pip
 sudo pip install -U -I pyusb
