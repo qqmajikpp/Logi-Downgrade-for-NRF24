@@ -12,3 +12,5 @@ until i paired a K400r to it.
 
 This is a work in progress. This script does not yet run, as is, for some reason. However, using the copy and paste method, line by line, seems to work just fine. You may or may not brick your dongle with this. Use at your own risk.
 This is provided for research purposes only.
+also check this out:
+https://github.com/RoganDawes/munifying
