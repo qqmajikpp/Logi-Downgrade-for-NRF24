@@ -10,5 +10,5 @@ If you run into a logitech unifying device that could be vulnerable, but isn't s
 another logitech device to it and try sniffing again with another device. I recently got a K400+ with a CU0008 dongle and it would not show up
 until i paired a K400r to it.
 
-This is a work in progress. This script does not yet run, as is, for some reason. However, using the copy and paste method, line by line, seems to work just fine.
+This is a work in progress. This script does not yet run, as is, for some reason. However, using the copy and paste method, line by line, seems to work just fine. You may or may not brick your dongle with this. Use at your own risk.
 This is provided for research purposes only.
